@@ -133,7 +133,7 @@ const Header = () => {
                                                 <div className='dropdownInfo'>
                                                     <h4>
                                                         <span>
-                                                            <b>Mahmudul </b>
+                                                            <b>Prakhar </b>
                                                             added to his favorite list
                                                             <b> Leather belt steve madden</b>
                                                         </span>
@@ -156,31 +156,7 @@ const Header = () => {
                                                 <div className='dropdownInfo'>
                                                     <h4>
                                                         <span>
-                                                            <b>Mahmudul </b>
-                                                            added to his favorite list
-                                                            <b> Leather belt steve madden</b>
-                                                        </span>
-                                                    </h4>
-                                                    <p className='text-sky mb-0'>few seconds ago</p>
-                                                </div>
-                                            </div>
-                                        </MenuItem>
-
-
-                                        <MenuItem onClick={handleCloseMyAccDrop}>
-                                            <div className='d-flex'>
-                                                <div>
-                                                    <div className="userImg">
-                                                        <span className="rounded-circle">
-                                                            <img src="https://mironcoder-hotash.netlify.app/images/avatar/01.webp" />
-                                                        </span>
-                                                    </div>
-                                                </div>
-
-                                                <div className='dropdownInfo'>
-                                                    <h4>
-                                                        <span>
-                                                            <b>Mahmudul </b>
+                                                            <b>Prakhar </b>
                                                             added to his favorite list
                                                             <b> Leather belt steve madden</b>
                                                         </span>
@@ -204,7 +180,7 @@ const Header = () => {
                                                 <div className='dropdownInfo'>
                                                     <h4>
                                                         <span>
-                                                            <b>Mahmudul </b>
+                                                            <b>Prakhar </b>
                                                             added to his favorite list
                                                             <b> Leather belt steve madden</b>
                                                         </span>
@@ -228,7 +204,7 @@ const Header = () => {
                                                 <div className='dropdownInfo'>
                                                     <h4>
                                                         <span>
-                                                            <b>Mahmudul </b>
+                                                            <b>Prakhar </b>
                                                             added to his favorite list
                                                             <b> Leather belt steve madden</b>
                                                         </span>
@@ -252,7 +228,31 @@ const Header = () => {
                                                 <div className='dropdownInfo'>
                                                     <h4>
                                                         <span>
-                                                            <b>Mahmudul </b>
+                                                            <b>Prakhar </b>
+                                                            added to his favorite list
+                                                            <b> Leather belt steve madden</b>
+                                                        </span>
+                                                    </h4>
+                                                    <p className='text-sky mb-0'>few seconds ago</p>
+                                                </div>
+                                            </div>
+                                        </MenuItem>
+
+
+                                        <MenuItem onClick={handleCloseMyAccDrop}>
+                                            <div className='d-flex'>
+                                                <div>
+                                                    <div className="userImg">
+                                                        <span className="rounded-circle">
+                                                            <img src="https://mironcoder-hotash.netlify.app/images/avatar/01.webp" />
+                                                        </span>
+                                                    </div>
+                                                </div>
+
+                                                <div className='dropdownInfo'>
+                                                    <h4>
+                                                        <span>
+                                                            <b>Prakhar </b>
                                                             added to his favorite list
                                                             <b> Leather belt steve madden</b>
                                                         </span>
@@ -287,8 +287,8 @@ const Header = () => {
                                             </div>
 
                                             <div className="userInfo res-hide">
-                                                <h4>Rinku Verma</h4>
-                                                <p className="mb-0">@rinkuv37</p>
+                                                <h4>Prakhar Dwivedi</h4>
+                                                <p className="mb-0">@prakhar002</p>
                                             </div>
 
                                         </Button>
